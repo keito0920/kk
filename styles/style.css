@@ -491,7 +491,7 @@ img {
   }
   .own-title #container .nine-pe .mini-flex p {
     position: relative;
-    left: 35px;
+    left: 60px;
     color: white;
     padding-top: 10px;
   }
@@ -505,14 +505,19 @@ img {
             flex-direction: row;
   }
   .own-title #container .nine-pe .mini-flex .list img {
+    position: relative;
+    left: 20px;
     width: 40px;
     height: 40px;
   }
   .own-title #container .nine-pe .mini-flex .list a {
+    position: relative;
+    top: 2px;
+    left: 22px;
     color: #fce41c;
     font-size: 20px;
     font-weight: bold;
-    width: 250px;
+    width: 300px;
   }
   .own-title #container .nine-pe .two-flex {
     position: absolute;
